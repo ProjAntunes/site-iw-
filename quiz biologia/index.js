@@ -127,7 +127,7 @@ const questions = [
     ]
   },
   {
-    question: 'Qual é o impacto do plastica nos ocenaos?',
+    question: 'Qual é o impacto do plastica nos oceanos?',
     answers: [
       { text: 'plastico nos oceano pode sufucar ferir a vida marinha', correct: true },
       { text: 'O plastico se desolve rapidamente', correct: false },
@@ -145,7 +145,7 @@ const questions = [
   {
     question: 'como reduzir os niveis de poluição nos oceanos',
     answers: [
-      { text: 'usando energia renovavel, e contribuindo na economia', correct: false },
+      { text: 'usando energia renovável, e contribuindo na economia', correct: false },
       { text: 'reduzindo o uso de plastico descartaveis ', correct: true },
       { text: 'continuar com abitos de jogar lixo no mar', correct: false },
       { text: 'comprando produtos caros', correct: false }
