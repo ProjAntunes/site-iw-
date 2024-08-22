@@ -109,20 +109,20 @@ function finishGame() {
 
 const questions = [
   {
-    question: "Qual quais sao os principais metas da ods 14",
+    question: "Qual quais são os principais metas da ods 14",
     answers: [
-      { text: "Reduzir a emissao de CO2", correct: false },
+      { text: "Reduzir a emissão de CO2", correct: false },
       { text: "essa ods não existe", correct: false },
-      { text: "previnir a poluiçao marinha", correct: true },
+      { text: "previnir a poluição marinha", correct: true },
       { text: "Erradicar a fome", correct: false }
     ]
   },
   {
-    question: "quais so os desafios para resolvera os problemas da vida marinha ",
+    question: "quais são os desafios para resolver os problemas da vida marinha ",
     answers: [
-      { text: "sobrepesca,e poluiçao marinha", correct: true },
-      { text: "Desigualdade de genero e acesso a educaçao", correct: false },
-      { text: "altos niveis de poluiçao na terra", correct: false },
+      { text: "sobrepesca,e poluição marinha", correct: true },
+      { text: "Desigualdade de genero e acesso a educação", correct: false },
+      { text: "altos niveis de poluição na terra", correct: false },
       { text: "Os varios paises que passam fome", correct: false }
     ]
   },
@@ -136,19 +136,19 @@ const questions = [
     ]
   },
   {
-    question: 'além de promover a conservação dos ecossistemas marinhos e a gestão sustentável das zonas pesqueiras até 2020',
+    question: 'além de promover a conservação dos ecossistemas marinhos e a gestão sustentável das zonas pesqueiras até 2020,isso aconteceu ?',
     answers: [
       { text: "falso", correct: false },
       { text: "Verdadeiro", correct: true }
     ]
   },
   {
-    question: 'como reduzir os niveis de poluiçao nos oceanos',
+    question: 'como reduzir os niveis de poluição nos oceanos',
     answers: [
       { text: 'usando energia renovavel, e contribuindo na economia', correct: false },
       { text: 'reduzindo o uso de plastico descartaveis ', correct: true },
       { text: 'continuar com abitos de jogar lixo no mar', correct: false },
-      { text: 'comprando produtos mais caros', correct: false }
+      { text: 'comprando produtos caros', correct: false }
     ]
   },
 ]
