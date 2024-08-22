@@ -109,30 +109,30 @@ function finishGame() {
 
 const questions = [
   {
-    question: "Qual quais são os principais metas da ods 14",
+    question: "Qual quais são os principais metas da ods 14 ?",
     answers: [
-      { text: "Reduzir a emissão de CO2", correct: false },
-      { text: "essa ods não existe", correct: false },
-      { text: "previnir a poluição marinha", correct: true },
-      { text: "Erradicar a fome", correct: false }
+      { text: "Reduzir a emissão de CO2.", correct: false },
+      { text: "essa ods não existe.", correct: false },
+      { text: "previnir a poluição marinha.", correct: true },
+      { text: "Erradicar a fome.", correct: false }
     ]
   },
   {
-    question: "quais são os desafios para resolver os problemas da vida marinha ",
+    question: "quais são os desafios para resolver os problemas da vida marinha ?",
     answers: [
-      { text: "sobrepesca,e poluição marinha", correct: true },
-      { text: "Desigualdade de genero e acesso a educação", correct: false },
-      { text: "altos niveis de poluição na terra", correct: false },
-      { text: "Os varios paises que passam fome", correct: false }
+      { text: "sobrepesca,e poluição marinha.", correct: true },
+      { text: "Desigualdade de gênero e acesso a educação.", correct: false },
+      { text: "altos niveis de poluição na terra.", correct: false },
+      { text: "Os varios paises que passam fome.", correct: false }
     ]
   },
   {
     question: 'Qual é o impacto do plastica nos oceanos?',
     answers: [
-      { text: 'plastico nos oceano pode sufucar ferir a vida marinha', correct: true },
-      { text: 'O plastico se desolve rapidamente', correct: false },
-      { text: 'nenhum, o plastico nao causa nenhum dano', correct: false },
-      { text: "Nenhuma das alternativas", correct: false }
+      { text: 'plastico nos oceano pode sufucar ferir a vida marinha.', correct: true },
+      { text: 'O plastico se desolve rapidamente.', correct: false },
+      { text: 'nenhum, o plastico nao causa nenhum dano.', correct: false },
+      { text: "Nenhuma das alternativas.", correct: false }
     ]
   },
   {
@@ -143,12 +143,12 @@ const questions = [
     ]
   },
   {
-    question: 'como reduzir os niveis de poluição nos oceanos',
+    question: 'como reduzir os niveis de poluição nos oceanos ?',
     answers: [
-      { text: 'usando energia renovável, e contribuindo na economia', correct: false },
-      { text: 'reduzindo o uso de plastico descartaveis ', correct: true },
-      { text: 'continuar com abitos de jogar lixo no mar', correct: false },
-      { text: 'comprando produtos caros', correct: false }
+      { text: 'usando energia renovável, e contribuindo na economia.', correct: false },
+      { text: 'reduzindo o uso de plastico descartaveis. ', correct: true },
+      { text: 'continuar com abitos de jogar lixo no mar.', correct: false },
+      { text: 'comprando produtos caros.', correct: false }
     ]
   },
 ]
