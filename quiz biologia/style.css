@@ -105,12 +105,25 @@ body {
 }
 
 
+.solon houver{
+  color: white;
+  opacity: 0.7;
+}
+
+
+
 @media screen and (max-width: 620px){
 
 .button{
 
-font-size: 11px;
+font-size: 10px;
 
 }
+
+.solon houver{
+  color: white;
+  opacity: 0.7;
+}
+
 }
   
